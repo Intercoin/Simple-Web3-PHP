@@ -1,5 +1,5 @@
 {
-    "name": "drlecks/simple-web3-php",
+    "name": "intercoin/simple-web3-php",
     "description": "Web3 library in PHP",
     "keywords": ["ethereum", "transaction", "jsonRPC", "eth", "signed transaction", "php", "web3", "contract", "account", "ABIv2"],
     "type": "library",
@@ -10,6 +10,11 @@
             "name": "drlecks",
             "email": "contacte@powdercode.com",
             "homepage": "https://github.com/drlecks/Simple-Web3-Php"
+        },
+        {
+            "name": "intercoin",
+            "email": "admin@intercoin.org",
+            "homepage": "https://github.com/intercoin/Simple-Web3-Php"
         }
     ],
 
